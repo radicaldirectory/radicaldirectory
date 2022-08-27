@@ -1,4 +1,7 @@
-### Hi there 👋
+Radical Directory’s goal is to create a better way for activists to share
+information about their organisations, campaigns and events.
+
+Our current proposal is to build a [Matrix](https://matrix.org) client to enable decentralised, open, end-to-end encrypted event organising. Read more about it [here](https://github.com/radicaldirectory/organ).
 
 <!--
 **radicaldirectory/radicaldirectory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
